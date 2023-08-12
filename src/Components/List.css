@@ -2,8 +2,6 @@
     display: flex;
     margin-top: 25px;
    text-transform: uppercase;
-
-
 }
 .list_item{
     margin-left: 20px;
@@ -11,13 +9,9 @@
     font-weight: 500;
 }
 .delete_icon{
-   color: rgb(176, 126, 222);
-
-    
+   color: rgb(176, 126, 222);  
 }
 .delete_icon:hover{
 cursor: pointer;
 color: rgb(151, 71, 227) ;
-   
-
 }
